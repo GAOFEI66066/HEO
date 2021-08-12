@@ -507,7 +507,7 @@ contract HEO is Context, IERC20, Ownable {
     
     address private _burnPool = 0x000000000000000000000000000000000000dEaD;
     
-    address private fundAddress = address(0x4DaB2a0C3d83a8c042478e610BBe49cB188a04d3);
+    address private fundAddress = address(0x72cd61F618f9e0F2f41157D78D3064256AcE420c);
     
     mapping(address => bool) private _isExcludedFromFee;
     
